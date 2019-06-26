@@ -1,0 +1,39 @@
+#mainNav .navbar-brand {
+
+    color: #e31e24;
+}
+
+#mainNav .navbar-brand {
+
+    font-size: 2.55em;
+}
+#mainNav.navbar-shrink .navbar-brand {
+
+    font-size: 1.75em;
+}
+
+.btn-primary{
+	color : #000;
+}
+
+#mainNav .navbar-toggler {
+
+    color: #000;
+}
+
+.padding-div{
+	padding-top:2.5em;
+}
+
+h2,
+h3,
+h4
+{
+	color:#212529;
+	
+}
+
+footer{
+	background:#212529;
+	color:#fcffff;
+}

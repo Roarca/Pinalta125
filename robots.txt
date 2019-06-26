@@ -1,0 +1,4 @@
+# Regla 1 y unica
+User-agent: *
+Allow : http://www.pinalta125.com/sitemap.xml
+Allow: /
