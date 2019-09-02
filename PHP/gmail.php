@@ -26,15 +26,15 @@
 	//Tenemos que usar gmail autenticados, así que esto a TRUE
 	$mail->SMTPAuth   = true;
 	//Definimos la cuenta que vamos a usar. Dirección completa de la misma
-	//$mail->Username   = "info.pinalta125@gmail.com";
+	//$mail->Username   = "username@gmail.com";
 	//Introducimos nuestra contraseña de gmail
-	//$mail->Password   = "Pin2019%";
+	//$mail->Password   = "New password";
 	//Definimos el remitente (dirección y, opcionalmente, nombre)
-	$mail->SetFrom('info.pinalta125@gmail.com');
+	$mail->SetFrom('username@gmail.com');
 	//Esta línea es por si queréis enviar copia a alguien (dirección y, opcionalmente, nombre)
-	$mail->AddReplyTo('rober.arminio@gmail.com','Replica al admin');
+	$mail->AddReplyTo('admin@gmail.com','Replica al admin');
 	//Y, ahora sí, definimos el destinatario (dirección y, opcionalmente, nombre)
-	$mail->AddAddress('pinalta125@gmail.com');
+	$mail->AddAddress('username@gmail.com');
 	//Definimos el tema del email
 	$mail->Subject = 'Correo de '.$name_to_send.' en Pinalta125';
 	//Para enviar un correo formateado en HTML lo cargamos con la siguiente función. Si no, puedes meterle directamente una cadena de texto.
