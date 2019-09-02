@@ -1,5 +1,5 @@
 # Pinalta125
-Web project for Pinalta125 website.
+Web project for [Pinalta125](http://www.pinalta125.com/ "Pinalta125") website.
 
 ![](img/Logo125B_re.png)
 
