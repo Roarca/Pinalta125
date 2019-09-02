@@ -81,20 +81,20 @@ class PHPMailer {
    * Sets the From email address for the message.
    * @var string
    */
-  public $From              = 'diegophpmailer@gmail.com';
+  public $From              = 'username@gmail.com';
 
   /**
    * Sets the From name of the message.
    * @var string
    */
-  public $FromName          = 'Diego';
+  public $FromName          = 'Username';
 
   /**
    * Sets the Sender email (Return-Path) of the message.  If not empty,
    * will be sent via -f to sendmail or as 'MAIL FROM' in smtp mode.
    * @var string
    */
-  public $Sender            = 'diegophpmailer@gmail.com';
+  public $Sender            = 'username@gmail.com';
 
   /**
    * Sets the Return-Path of the message.  If empty, it will
@@ -251,13 +251,13 @@ class PHPMailer {
    * Sets SMTP username.
    * @var string
    */
-  public $Username      = 'info.pinalta125@gmail.com';
+  public $Username      = 'username@gmail.com';
 
   /**
    * Sets SMTP password.
    * @var string
    */
-  public $Password      = 'Pin2019%';
+  public $Password      = 'PASS';
 
   /**
    *  Sets SMTP auth type. Options are LOGIN | PLAIN | NTLM  (default LOGIN)
