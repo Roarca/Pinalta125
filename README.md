@@ -7,7 +7,7 @@ Web project for Pinalta125 website.
 
 ### Features
 
-- Bootstrap design , mobile first and responsive;
+- Bootstrap design , mobile first and responsive.
 - Contact form with name, e-mail, comment and number.
 - Blog with main page for news.
 
