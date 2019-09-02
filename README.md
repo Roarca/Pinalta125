@@ -10,6 +10,8 @@ Web project for Pinalta125 website.
 - Bootstrap design , mobile first and responsive.
 - Contact form with name, e-mail, comment and number.
 - Blog with main page for news.
+- SEO friendly HTML.
+
 
 ## What's included
 
